@@ -1,7 +1,7 @@
-#include "sculptor.h"
-
+#include <iostream>
 #include <fstream>
-
+#include <cstdlib>
+#include "sculptor.h"
 
 Sculptor::Sculptor(int _nx, int _ny, int _nz) {
     nx = _nx;
