@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/sculptor.dir/main.cpp.o CMakeFiles/sculptor.dir/sculptor.cpp.o -o sculptor 

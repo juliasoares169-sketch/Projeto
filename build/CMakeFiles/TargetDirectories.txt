@@ -1,0 +1,3 @@
+/workspaces/Projeto/build/CMakeFiles/sculptor.dir
+/workspaces/Projeto/build/CMakeFiles/edit_cache.dir
+/workspaces/Projeto/build/CMakeFiles/rebuild_cache.dir
