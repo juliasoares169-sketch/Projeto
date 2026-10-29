@@ -271,6 +271,7 @@ CMakeFiles/sculptor.dir/sculptor.cpp.o: /workspaces/Projeto/sculptor.cpp \
   /usr/include/c++/13/initializer_list \
   /usr/include/c++/13/ios \
   /usr/include/c++/13/iosfwd \
+  /usr/include/c++/13/iostream \
   /usr/include/c++/13/istream \
   /usr/include/c++/13/new \
   /usr/include/c++/13/ostream \
